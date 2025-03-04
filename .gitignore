@@ -1,0 +1,15 @@
+# Ignore logs and debug files
+debug_log.txt
+*.log
+
+# Ignore system & temporary files
+.DS_Store
+Thumbs.db
+*.cache
+*.tmp
+*.swp
+
+# Ignore IDE/editor files
+*.bak
+*.vscode/
+*.idea/
